@@ -14,6 +14,35 @@ El programa contara con un menu interactivo para poder seleccionar entre las sig
 -Citas
 
 -Pacientes
+Una vez seleccionada la opcion se podra capturar los datos para crear un registro dentro del programa, *a continación se muestran las posibles opciones*:
+
+**Doctores**
+
+- Nombre
+
+- Id
+
+- Especialidad
+
+**Pacientes**
+
+- Nombre
+
+- ID
+
+**Citas**
+
+- Hora
+
+- Fecha
+
+- Asignar Doctor
+
+- Asignar Paciente
+
+- Motivo
+
+
 # Créditos.
 Creado por Julio Alejandro Rangel Rizo
 # Licencia
