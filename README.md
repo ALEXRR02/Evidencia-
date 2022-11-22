@@ -14,7 +14,7 @@ El programa contara con un menu interactivo para poder seleccionar entre las sig
 -Citas
 
 -Pacientes
-Una vez seleccionada la opcion se podra capturar los datos para crear un registro dentro del programa, *a continación se muestran las posibles opciones*:
+Seleccionando la opcion se podra capturar los datos para crear un registro dentro del programa
 
 **Doctores**
 
