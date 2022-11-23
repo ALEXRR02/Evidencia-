@@ -57,4 +57,8 @@ Seleccionando la opcion se podra capturar los datos para crear un registro dentr
 
 # Créditos.
 Creado por Julio Alejandro Rangel Rizo
+Profesor: José Alfredo Jiménez Hernández
+
+#Licencia
+Se utilizo la licencia de Oracle Java, está disponible en el Acuerdo de licencia de Oracle Technology Network para Oracle Java SE. Esta licencia permite utilizar Java con fines personales y de desarrollo de forma gratuita.
 
