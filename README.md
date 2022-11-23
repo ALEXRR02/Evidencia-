@@ -5,7 +5,7 @@ Evidencia de programación en java
 Paso 1 Se debe instalar Java desde su página web. Se debe buscar como JDK, las instrucciones dde su instalación se pueden encontrar y seguir desde https://www.oracle.com/mx/java/technologies/javase/javase8-archive-downloads.html
 
 Paso 2 Estando seguros de que tenemos JDK instalado y funcionando el programa se descarga a un directorio conocido. Un vez ubicado abrimos una ventana de terminal.
-Paso 3 Teniendo la ubicacion del archivo Clinica.java procedemos a acceder desde la terminal a la carpeta que contiene este archivo con el comando
+Paso 3 Teniendo la ubicacion del archivo Clinica.java se debe acceder desde la terminal a la carpeta que contiene este archivo con el comando
 
 cd (ubicacion del archivo .java)
 
