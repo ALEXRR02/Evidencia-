@@ -1,5 +1,6 @@
 # Evidencia-
 Evidencia de programación en java
+En la wiki se presenta el diagrama de flujo de la aplicación.
 
 # Pasos de instalación y configuracón
 Paso 1 Se debe instalar Java desde su página web. Se debe buscar como JDK, las instrucciones dde su instalación se pueden encontrar y seguir desde https://www.oracle.com/mx/java/technologies/javase/javase8-archive-downloads.html
